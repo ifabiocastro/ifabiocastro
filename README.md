@@ -25,9 +25,9 @@ Gosto de aprender construindo projetos, e este perfil é o registro dessa jornad
 
 ## 🛠️ Projetos
 
-- 🌐 **[NOME_DO_PROJETO_WEB](https://github.com/SEU_USUARIO/NOME_DO_PROJETO_WEB)**: descreva em uma frase o que é (ex.: "Página de ... feita com HTML e CSS").
-- 🎮 **[NOME_DO_JOGO](https://github.com/SEU_USUARIO/NOME_DO_JOGO)**: descreva em uma frase o que é (ex.: "Jogo ... feito em Python com Pygame").
-
+- 🎮 **[Labirinto Cósmico](https://github.com/ifabiocastro/LabirintoCosmico)**:  Jogo de aventura espacial em 2D desenvolvido em Python através da IDE PyCharm.
+- 🌐 **[Meu Site](https://github.com/ifabiocastro/meusite)**: Uma mini apresentação sobre mim, minha trajetória e meus projetos web feita com HTML e CSS.
+  
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades de estágio e a trocar ideias com quem está na área. Me chama no LinkedIn ou por e-mail!
