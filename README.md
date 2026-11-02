@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Fábio! :D
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou dando os primeiros passos na área de tecnologia. Atualmente **busco uma oportunidade de estágio** em desenvolvimento para aprender na prática e contribuir com o time.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou dando os primeiros passos na área de tecnologia. Atualmente **busco uma oportunidade de primeiro emprego ou estágio** em desenvolvimento para aprender na prática e contribuir com o time.
 
 Gosto de aprender construindo projetos, e este perfil é o registro dessa jornada. Vou atualizando conforme evoluo. 🚀
 
